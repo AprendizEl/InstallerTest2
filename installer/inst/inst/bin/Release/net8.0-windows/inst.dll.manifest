@@ -62,22 +62,22 @@
       <dsig:DigestValue>aaFJkx9OagpiwKMSGDxYqTF8wvBnquQdjuD5BLnfogM=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="inst.dll" size="8624">
+  <file name="inst.dll" size="8112">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>xmkXo9Zq9XcrsYwCOf6PNVsZkc6AohwIC/PeUSOnLsA=</dsig:DigestValue>
+      <dsig:DigestValue>JoDiJ8o0prM5ez0SX0RQGIdKw2Kq+/MbcoHOD0ju5qg=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="inst.exe" size="143792">
+  <file name="inst.exe" size="143280">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>dVOYVwv2G+2r5KIJtA3tiLFN5SaiO21/PbyRZ0aZdJg=</dsig:DigestValue>
+      <dsig:DigestValue>lkRUEKgQLA8hJ9QE2AzHrQGYDQBnJAo/ko57N4EwD5M=</dsig:DigestValue>
     </hash>
   </file>
   <file name="inst.runtimeconfig.json" size="458">
