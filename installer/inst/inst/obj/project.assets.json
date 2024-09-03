@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\eecheto\\Desktop\\Installer Testing\\InstallerTest\\installer\\inst\\inst\\inst.csproj",
+      "projectUniqueName": "C:\\Users\\eecheto\\Desktop\\Installer Testing\\InstallerTest2\\installer\\inst\\inst\\inst.csproj",
       "projectName": "inst",
-      "projectPath": "C:\\Users\\eecheto\\Desktop\\Installer Testing\\InstallerTest\\installer\\inst\\inst\\inst.csproj",
+      "projectPath": "C:\\Users\\eecheto\\Desktop\\Installer Testing\\InstallerTest2\\installer\\inst\\inst\\inst.csproj",
       "packagesPath": "C:\\Users\\eecheto\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\eecheto\\Desktop\\Installer Testing\\InstallerTest\\installer\\inst\\inst\\obj\\",
+      "outputPath": "C:\\Users\\eecheto\\Desktop\\Installer Testing\\InstallerTest2\\installer\\inst\\inst\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\eecheto\\AppData\\Roaming\\NuGet\\NuGet.Config",
